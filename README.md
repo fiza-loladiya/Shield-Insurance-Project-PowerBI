@@ -3,10 +3,11 @@
 This project is an end-to-end **Power BI dashboard** built for **Shield Insurance** as part of the **Codebasics Virtual Internship**.  
 The report answers key business questions in seconds by tracking **Total Revenue**, **Total Customers**, **DRG/DCG (Daily Revenue & Customer Growth)**, monthly trends, and customer segmentation across **city, sales mode, age group, and policy ID**. 
 
-![Overview](Home-Page.png)
-
 
 ## 📌 Project Overview
+
+![Overview](Home-Page.png)
+
 Shield Insurance provides comprehensive insurance plans for individuals and businesses. This dashboard is designed to help stakeholders quickly understand:
 - how revenue and customer growth is trending month-over-month,
 - where customers are coming from (city + demographic segments),
@@ -53,6 +54,7 @@ A business snapshot with:
 - Filters for **City, Medium, Mode, Policy ID, Month**
 
 📌 Add screenshot:
+
 ![Overview](overview.png)
 
 
@@ -64,6 +66,7 @@ This page breaks down performance by channel:
 - Filters for **Month, Policy ID, Mode, Medium, City** 
 
 📌 Add screenshot:
+
 ![Sales Mode Analysis](sales-mode-analysis.png)
 
 
@@ -77,6 +80,7 @@ This page focuses on customer demographics and behavior:
 - Filters for **City, Medium, Mode, Policy ID, Month** 
 
 📌 Add screenshot:
+
 ![Age Group Analysis](age-group-analysis.png)
 
 
